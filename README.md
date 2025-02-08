@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://img.shields.io/badge/blog-E74C3C.svg?style=for-the-badge&logo=tistory&logoColor=000000" />
-  [Link](#link)https://jammomu.tistory.com/
+  https://jammomu.tistory.com/
 </div>
 
 <div>
