@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <div>
-  <img src="https://img.shields.io/badge/blog-E74C3C.svg?style=for-the-badge&logo=tistory&logoColor=000000" />
+  blog: 
   https://jammomu.tistory.com/
 </div>
 
