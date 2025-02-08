@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0&height=300&section=header&text=Jammomu's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1&height=300&section=header&text=Jammomu's%20Github&fontSize=90)
