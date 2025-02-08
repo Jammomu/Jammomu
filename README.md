@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10&height=300&section=header&text=Jammomu's%20Github&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+<div>
+  <img src="https://img.shields.io/badge/blog-E74C3C.svg?style=for-the-badge&logo=tistory&logoColor=000000" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
